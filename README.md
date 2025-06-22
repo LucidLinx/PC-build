@@ -4,17 +4,20 @@ Here's a streamlined table with critical feedback, optimized for pasting into Go
 | Component       | Model                                 | Price (€) | Short Link                     | Feedback & Recommendations                                                                 |
 |-----------------|---------------------------------------|-----------|--------------------------------|--------------------------------------------------------------------------------------------|
 | **Graphics Card** | RTX 3070 TUF Gaming                 | 280       | [Link](https://www.adverts.ie/graphics-cards/rtx-3070-tuf-gaming-8gb-non-lhr/37274681) | Good price for 1440p gaming                                                                 |
-| **CPU**          | AMD Ryzen 9 7900X                   | 335       | [Link](https://amzn.eu/d/i4CDLNm) | Overkill for RTX 3070. Consider Ryzen 7 7700X (€300) for better balance                   |
+| <s>**CPU**          | <s>AMD Ryzen 9 7900X                   | <s>335       | <s>[Link](https://amzn.eu/d/i4CDLNm) | <s>Overkill for RTX 3070. Consider Ryzen 7 7700X (€300) for better balance                   |
+| **CPU**          | Ryzen 7 7700X                   | 242       | [Link](https://amzn.eu/d/bjtmZhb) |                    |
 | **Motherboard**  | MSI B650 GAMING PLUS WIFI           | 165       | [Link](https://amzn.eu/d/i4CDLNm) | Solid choice, good VRMs & WiFi                                                             |
 | **RAM**          | Corsair Vengeance 32GB DDR5 6000MHz | 95        | [Link](https://amzn.eu/d/eVwrh5b) | EXPO-optimized, ideal for Ryzen 7000                                                       |
-| **Storage**      | TeamGroup MP33 Pro 1TB (Gen3 NVMe)  | 50        | [Link](https://shorturl.at/9F4Fg) | Budget option. Upgrade to Gen4 (e.g. WD SN770) later                                       |
-| **⚠️ Power Supply** | Gigabyte P650G Gold                | 65        | [Link](https://shorturl.at/9F4Fg) | **CRITICAL RISK:** Replace immediately with [Corsair RM750e](https://amzn.eu/d/0bV7k0w) (€110) |
-| **Case**         | Phanteks XT Pro ATX                 | 55        | [Link](https://amzn.eu/d/3mYyJDf) | Add 2x [Arctic P12 fans](https://amzn.eu/d/0bV7k0w) (€10) for front intake                 |
-| **⚠️ Cooler**     | Arctic Freezer 36                   | 50        | [Link](https://amzn.eu/d/2fw3MGr) | **Inadequate for 7900X.** Replace with [Thermalright PS120 SE](https://amzn.eu/d/0bV7k0w) (€45) |
+| **Storage**      | TeamGroup MP33 Pro 1TB (Gen3 NVMe)  | 50        | [Link](https://www.overclockers.co.uk/team-group-mp33-pro-1tb-ssd-m.2-2280-nvme-pcie-3.0-solid-state-drive-sto-tmg-02681.html) | Budget option. Upgrade to Gen4 (e.g. WD SN770) later                                       |
+| **<s>⚠️ Power Supply** | <s>Gigabyte P650G Gold                | <s>65        | [<s>Link](https://www.awd-it.co.uk/gigabyte-p650g-650w-80-gold-certified-non-modular-psu-gp-p650g-uk.html) | <s>**CRITICAL RISK:** Replace immediately with [Corsair RM750e]([https://amzn.eu/d/0bV7k0w](https://amzn.eu/d/bQL98wJ)) (€110) |
+| **Power Supply** |CORSAIR RM750e                 | 110        | [Link](https://amzn.eu/d/bQL98wJ) |  |
+| **Case**         | Phanteks XT Pro ATX                 | 55        | [Link](https://amzn.eu/d/3mYyJDf) | Add 2x [Arctic P12 fans](https://amzn.eu/d/gTxPBsY) (€10) for front intake                 |
+| **<s>⚠️ Cooler**     |<s> Arctic Freezer 36                   | <s>50        |<s> [Link](https://amzn.eu/d/2fw3MGr) |<s> **Inadequate for 7900X.** Replace with [Thermalright PS120 SE](https://amzn.eu/d/3CwB6wb)) (€40) |
+| **Cooler**     | Thermalright PS120 SE                   | 40        | [Link](https://amzn.eu/d/3CwB6wb) ||
 | **Keyboard**     | Misc Gaming Combo                   | 30        | [Link](https://amzn.eu/d/ccKCU0D) | Functional starter kit                                                                     |
 | **Thermal Paste**| Arctic MX-4                         | 5         | [Link](https://amzn.eu/d/91i4zeM) | Not needed (coolers include paste)                                                         |
 | **TOTAL**        | -                                   | **1,130** | -                              |                                                                                            |
-| **Revised Total**| Safe Configuration                  | **1,170** | -                              | With essential PSU/cooler fixes                                                             |
+| **Revised Total**| Safe Configuration                  | **€1,035** | -                              | With essential PSU/cooler fixes                                                             |
 
 ### Critical Fixes Required
 1. **PSU Replacement**  
