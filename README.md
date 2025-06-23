@@ -3,7 +3,7 @@ Here's a streamlined table with critical feedback, optimized for pasting into Go
 ### PC Build Summary Table
 | Component       | Model                                 | Price (€) | Short Link                     | Feedback & Recommendations                                                                 |
 |-----------------|---------------------------------------|-----------|--------------------------------|--------------------------------------------------------------------------------------------|
-| **Graphics Card** | RTX 3070 TUF Gaming                 | 280       | [Link](https://www.adverts.ie/graphics-cards/rtx-3070-tuf-gaming-8gb-non-lhr/37274681) | Good price for 1440p gaming                                                                 |
+| **Graphics Card** | Asus TUF Gaming Rtx 3070 Ti OC                 | 330       | [Link]([https://www.adverts.ie/graphics-cards/rtx-3070-tuf-gaming-8gb-non-lhr/37274681](https://www.adverts.ie/graphics-cards/asus-tuf-gaming-rtx-3070-ti-oc/37368608) | Good price for 1440p gaming                                                                 |
 | <s>**CPU**          | <s>AMD Ryzen 9 7900X                   | <s>335       | <s>[Link](https://amzn.eu/d/i4CDLNm) | <s>Overkill for RTX 3070. Consider Ryzen 7 7700X (€300) for better balance                   |
 | **CPU**          | Ryzen 7 7700X                   | 242       | [Link](https://amzn.eu/d/bjtmZhb) | Consider https://www.aliexpress.com/item/1005007257731158.html €195                   |
 | **Motherboard**  | MSI B650 GAMING PLUS WIFI           | 165       | [Link](https://amzn.eu/d/i4CDLNm) | Solid choice, good VRMs & WiFi    Consider https://www.aliexpress.com/item/1005007681563155.html €95                                                         |
@@ -17,7 +17,7 @@ Here's a streamlined table with critical feedback, optimized for pasting into Go
 | **Keyboard**     | Misc Gaming Combo                   | 30        | [Link](https://amzn.eu/d/ccKCU0D) | Functional starter kit                                                                     |
 | **Thermal Paste**| Arctic MX-4                         | 5         | [Link](https://amzn.eu/d/91i4zeM) | Not needed (coolers include paste)                                                         |
 | **TOTAL**        | -                                   | **1,130** | -                              |                                                                                            |
-| **Revised Total**| Safe Configuration                  | **€1,035** | -                              | With essential PSU/cooler fixes                                                             |
+| **Revised Total**| Safe Configuration                  | **€1,085** | -                              | With essential PSU/cooler fixes                                                             |
 
 ### Critical Fixes Required
 1. **PSU Replacement**  
